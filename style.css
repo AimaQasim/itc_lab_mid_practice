@@ -1,0 +1,35 @@
+body {
+    background: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+    background-color: violet;
+    color: white;
+    text-align: center;
+    padding: 6px;
+    border-radius: 12px;
+}
+table {
+    border: 2px solid black;
+    border-radius: 5px;
+} 
+td, th {
+    border: 2px solid violet;
+    align-content: center;
+    text-align: center;
+    padding: 8px;
+    margin: 0px;
+}
+mark {
+    background-color: pink;
+    color: blue;
+    font-size: medium;
+    padding: 4px;
+    border-radius: 7px;
+}
+/*th {
+    border: 2px solid blue;
+}
+td {
+    border: 2px solid pink;
+}*/
